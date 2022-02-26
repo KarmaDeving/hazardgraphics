@@ -53,13 +53,13 @@ To install the Visual mod in Fivem
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # INSTALL (Optional Addons)
-If you want to install the optional options make sure the read the // Install (Optional Addons).txt provided in the Optional Folder
+(coming soon)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # Where to Report Bug
-Where to i report any bugs or problems i have with the mod?
+Where to I report any bugs or problems i have with the mod?
 
 You can add KarmaDeving#0685 on Discord for an issues or bugs with the mod.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ RECOMENDED INGAME SETTINGS (Comming Soon!)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ RECOMMENDED INGAME SETTINGS (Comming Soon!)

@@ -47,7 +47,7 @@ Changed
 # HOW TO INSTALL!!
 To install the Visual mod in Fivem
 
-1. Drag & Drop the exe file and the dll files to a folder on your desktop
+1. Drag & Drop the exe file and the FX files to a folder on your desktop
 2. Run the file and let the executable inject the visuals into your FiveM game files
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

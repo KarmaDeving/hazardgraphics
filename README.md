@@ -16,7 +16,7 @@ Know bug
 # v0.1
 Changed
 
--the weather effects to be more realistic -Changed the moon texture -Changed the night sky box -did some tweaks to the ingame lightning
+• The weather effects to be more realistic -Changed the moon texture -Changed the night sky box -did some tweaks to the ingame lightning
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

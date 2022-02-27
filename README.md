@@ -72,5 +72,4 @@ To install the Visual mod in Fivem
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Free discord nitro for first 10 reviews!
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Proof of use must be provided over discord!

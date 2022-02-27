@@ -11,7 +11,7 @@ CHANGE NOTES!!!
 
 Know bug
 
-• Strange effect when going from rain to thunder this wil go away in a view second this is bieng looked at
+• Strange effect when going from rain to thunder this will go away shortly, it is currently being looked into. 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

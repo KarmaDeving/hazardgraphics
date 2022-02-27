@@ -23,7 +23,7 @@ Changed
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # v0.1.1 (HOTFIX)
-• Disabled the motion blur
+• Added option to have motionblur
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

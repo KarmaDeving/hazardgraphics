@@ -46,13 +46,6 @@ Changed
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# HOW TO INSTALL!!
-To install the Visual mod in Fivem
-
-1. Drag & Drop the exe file and the FX files to a folder on your desktop
-2. Run the file and let the executable inject the visuals into your FiveM game files
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # INSTALL (Optional Addons)
 (coming soon)
@@ -64,4 +57,20 @@ Where to I report any bugs or problems i have with the mod?
 
 You can add KarmaDeving#0685 on Discord for an issues or bugs with the mod.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ RECOMMENDED INGAME SETTINGS (Comming Soon!)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+
+RECOMMENDED INGAME SETTINGS (Comming Soon!)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Free discord nitro for first 10 reviews!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# HOW TO INSTALL!!
+To install the Visual mod in Fivem
+
+1. Drag & Drop the exe file and the FX files to a folder on your desktop
+2. Run the file and let the executable inject the visuals into your FiveM game files
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

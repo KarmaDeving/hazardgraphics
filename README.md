@@ -1,5 +1,7 @@
 # Hazard Graphics
 
+![image](https://user-images.githubusercontent.com/100494834/155863085-323dc615-7cfd-4e2b-9dc8-52951248f040.png)
+
 CHANGE NOTES!!!
 
 # v0.1.3

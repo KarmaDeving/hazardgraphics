@@ -1,6 +1,8 @@
 # Hazard Graphics
 
 ![image](https://i.imgur.com/Cf1iHr4.jpg)
+![image](https://user-images.githubusercontent.com/100494834/155898460-d903046b-1d7e-4279-bfe2-960629080860.png)
+
 
 CHANGE NOTES!!!
 

@@ -1,5 +1,8 @@
 # Hazard Graphics
 
+## 🌟Star This Repository If You Liked Hazard Graphics!
+
+
 ![image](https://i.imgur.com/Cf1iHr4.jpg)
 ![image](https://i.imgur.com/haqabxX.png)
 ![image](https://i.imgur.com/pzeFG5V.png)
@@ -44,24 +47,25 @@ Changed
 
 
 
-# Next update!! (Delayed)
+# Next Update!! (Delayed)
 
 • Changing all the weather info in Timecycle to finshing the weather update -If needed some more changed to the ingame lightning -Replacing all the corona textures -Adding in Better road Textures
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# INSTALL (Optional Addons)
+
+# 💾・ More options
 (coming soon)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Where to Report a Bug
+
+
+# ⚙️・How to Report a Bug
 Where do I report any bugs or problems i have with the mod?
 
-You can add KarmaDeving#0685 on Discord for an issues or bugs with the mod.
+You can add KarmaDeving#0685 on Discord for any issues or bugs with the mod.
+ 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
 
 # 📁・Setting up Hazard Graphics
